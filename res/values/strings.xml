@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Festival App</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="button1">Tegoed bekijken</string>
+    <string name="button2">Opwaarderen</string>
+    <string name="button3">Token uitwisselen</string>
+    
+    <string name="title_activity_check_account">Mijn tegoed</string>
+    <string name="title_account_details">Jouw tegoed is:</string>
+    <string name="title_activity_upgrade_credit">Opwaarderen</string>
+
+    <string name="instruction_main">Houd je polsbandje onder je telefoon</string>
+    <string name="nfc_not_supported">Deze telefoon ondersteunt geen NFC</string>
+    <string name="credit_placeholder">&#8230;</string>
+    
+</resources>
